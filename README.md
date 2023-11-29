@@ -13,7 +13,7 @@ This repository contains my solution for the final challenge in Kevin Powell's "
 - [Contributing](#contributing)
 
 ## Preview
-
+Deployed Solution[https://corps21.github.io/Conquering-Responsive-Layouts-Final-Challenge/]
 
 
 ## Features
